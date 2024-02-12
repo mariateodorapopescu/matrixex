@@ -1,34 +1,21 @@
-# Matrix Operations Toolbox 🧮💡
+# Matrix Operations
 
-## Introduction
-Welcome to the Matrix Operations Toolbox! 🚀 This C++ program is designed to perform a variety of operations on matrices, providing a versatile tool for matrix manipulation and analysis. Whether you're working with a single matrix or dealing with the interplay of two matrices, this toolbox has you covered.
+This C++ program performs various operations on matrices, including:
 
-## Features
-- **Single Matrix Operations:**
-  - Sum and difference calculation.
-  - Determinant, transpose, and power calculations.
-  - Inversion of a square matrix.
-  - Row and column elimination.
-  - Function application on the matrix.
+- **Matrix Arithmetic:** Addition, subtraction, and multiplication of matrices.
+- **Matrix Functions:** Determinant calculation, transposition, and inverse calculation.
+- **Elementary Row Operations:** Elimination of rows and columns.
+- **Matrix Powers:** Calculation of a matrix raised to a certain power.
+- **Function with Matrix:** Performing a function on a matrix.
 
-- **Dual Matrix Operations:**
-  - Addition and subtraction of matrices.
-  - Matrix multiplication and commutativity check.
-  - System of linear equations solution.
-  - Displaying matrices.
+## How to Use
 
-## Usage
-1. **Single Matrix Operations:**
-   - Input the matrix dimensions and elements.
-   - Choose the operation you want to perform.
+1. **Compile:** Compile the program using a C++ compiler.
+2. **Run:** Execute the compiled program.
+3. **Input:** Follow the prompts to input matrices and select operations.
+4. **Output:** View the results of the selected operations.
 
-2. **Dual Matrix Operations:**
-   - Input dimensions and elements for both matrices.
-   - Select the operation you want to carry out.
+## Note
 
-## How to Run
-1. Ensure you have a C++ compiler installed.
-2. Copy the provided code into a C++ file (e.g., `matrix_operations.cpp`).
-3. Compile and run the program.
-
-Feel free to explore and manipulate matrices effortlessly with the Matrix Operations Toolbox! 🛠️📊
+- This program is designed to work with either one or two matrices, depending on user input.
+- Ensure correct input dimensions for matrix operations to avoid errors.
